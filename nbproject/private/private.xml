@@ -3,7 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/src/java/za/ac/tut/entities/Student.java</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/src/java/za/ac/tut/ejb/StudentFacade.java</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/web/student_addition_outcome.html</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/web/student_addition_outcome.jsp</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/src/java/za/ac/tut/ejb/AbstractFacade.java</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/src/java/za/ac/tut/ejb/StudentFacadeLocal.java</file>
             <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/web/index.html</file>
+            <file>file:/C:/Users/ABRMA86/Documents/NetBeansProjects/StudentsManagerWebApp/src/java/za/ac/tut/web/AddStudentServlet.java</file>
         </group>
     </open-files>
 </project-private>
